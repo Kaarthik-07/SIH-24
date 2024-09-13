@@ -1,8 +1,0 @@
-- [x] login
-- [x] users fetching
-- [x] sites fetching
-- [ ] user creation
-- [x] site creation
-- [x] user attendence
-- [ ] site eods / inventory
-- [ ] mason & inventory items add
